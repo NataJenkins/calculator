@@ -25,7 +25,7 @@
 - Node installed on your computer
 - Npm as well
 
-### Install
+### Install.
 
 **Now to clone it to your local machine please open your terminal and paste this code `git@github.com:NataJenkins/calculator.git`**
 
